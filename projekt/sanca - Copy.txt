@@ -1,0 +1,19 @@
+ČISTIČKA ODPADOV#Postavte čističku odpadov v ľubovoľnej štvrti, kde nie sú bonusové budovy.
+MÝTNE#Zaplaťte 500 tisíc a prejdite na políčko BEZPLATNÉ PARKOVANIE.
+PREPLNENÉ VÄZENIE#Postavte väzenie v ľubovoľnej štvrti, v ktorej nie je bonusová budova.
+ZEMETRASENIE!#Môžete zhodiť bonusovú budovu vo štvrti ľubovoľného protivníka. Pokiaľ v hre žiadne bonusové budovy nie sú, postavte si v ľubovoľnej štvrti nebezpečný objekt.
+JEDNODUCHÝ ZÁROBOK#Hráč po vašej ľavici vám dá 1 milión.
+SPREJERSKÁ POHROMA#Necháte odstrániť graffiti. Zaplaťte 50 tisíc za každú svoju štvrť.
+KRÁDEŽ#Ľubovoľnému protihráčovi môžete ukradnúť jednu štvrť so všetkými budovami. Nesmie však byť súčasťou úplnej farebnej súpravy.
+CHOĎTE DO DRAHOKAMENÍC#
+CHOĎTE DO PROSTRIEDKOVA#POKIAĽ PREJDETE ŠTARTOM, VYBERTE SI 2 MILIÓNY.
+DEDIČSTVO#Vyberte si od banky ľubovoľnú štvrť bez majiteľa(pokiaľ taká ešte je)- je vaša! Má to však jeden háčik- zaplaťte dedičskú  daň 500 tisíc.
+TOXICKÝ ODPAD#Zaplaťte 1 milión za každú čističku odpadov vo svojích štvrtiach. Pokiaľ žiadne čističky odpadov nevlastníte, idete do väzenia.
+PREJDITE NA ŠTART#VEZMITE SI 2 MILIÓNY.
+VRAŤTE SA O 3 POLÍČKA SPÄŤ#
+CHOĎTE DO VÄZENIA#CHOĎTE PRIAMO DO VÄZENIA. NEPREJDETE ŠTARTOM A NEZISKÁTE 2 MILIÓNY.
+PRIEPUSTKA Z VÄZENIA#Túto kartu je možné použiť neskôr alebo predať.
+ODPUSTENIE DANE#Túto kartu si uschovajte. Môžete ju použiť, až skončíte na políčku PRIEMYSELNÁ DAŇ a vyhnúť sa tak platbe. Po použití kartu vraťte.
+AUKCIA#Vyberte si ľubovaľnú štvrť bez majiteľa(pokiaľ taká ešte je), ktorá sa bude dražiť, a predložte prvú ponuku.
+BEZPLATNÁ STAVBA#Postavte jeden obytný blok v ktorejkoľvek zo svojích štvrtí. Pokiaľ žiadne štvrte nevlastníte, banka vám zaplatí 500 tisíc.
+ZABAVENIE MAJETKU#Predajte 1 štvrť späť banke za 1 milión, bez ohľadu na jej skutočnú cenu. Vraťte všetky budovy. Pokiaľ žiadne štvrte nevlastníte, zaplaťte banke 1 milión.

@@ -1,0 +1,42 @@
+Výletov,brown,600000,500000,1000000,20000,100000,434,476,470,530,1,1
+Sedlec,brown,600000,500000,1000000,40000,200000,358,475,394,533,2,3
+Západná štvrť,light blue,1000000,500000,1000000,60000,300000,244,476,280,534,1,6
+Dokovany,light blue,1000000,500000,1000000,60000,300000,167,476,204,531,2,8
+Slnkovo,light blue,1200000,500000,1000000,80000,400000,129,476,166,532,3,9
+Stará štvrť,pink,1400000,1000000,2000000,100000,500000,70,437,128,475,1,11
+Vyšany,pink,1400000,1000000,2000000,100000,500000,70,359,128,399,2,13
+Horný prístav,pink,1600000,1000000,2000000,120000,600000,71,322,127,359,3,14
+Trbieltkovce,orange,1800000,1000000,2000000,140000,700000,69,244,129,280,1,16
+Východné nábrežie,orange,1800000,1000000,2000000,140000,700000,70,167,128,204,2,18
+Lesňany,orange,2000000,1000000,2000000,160000,800000,69,130,128,167,3,19
+Vyhliadkov,red,2200000,1500000,3000000,180000,900000,129,67,166,127,1,21
+Prístavisko,red,2200000,1500000,3000000,180000,900000,205,67,241,128,2,23
+Prostriedkovce,red,2400000,1500000,3000000,200000,1000000,243,66,280,126,3,24
+Nová štvrť,yellow,2600000,1500000,3000000,220000,1100000,318,68,356,130,1,26
+Strieborný prístav,yellow,2600000,1500000,3000000,220000,1100000,356,66,394,128,2,27
+Obchodov,yellow,2800000,1500000,3000000,240000,1200000,433,67,471,125,3,29
+Kráľovský dvor,green,3000000,2000000,4000000,260000,1300000,471,129,527,163,1,31
+Marina,green,3000000,2000000,4000000,260000,1300000,471,167,530,202,2,32
+Pořičany,green,3200000,2000000,4000000,280000,1500000,471,243,530,278,3,34
+Boháčov,blue,3500000,2000000,4000000,350000,1750000,471,358,529,395,1,37
+Drahokamenice,blue,4000000,2000000,4000000,500000,3000000,472,435,529,472,2,39
+
+Štart,Vyberte si plat 2 milióny,472,477,530,532,0
+Šanca,Kliknite na kartičku šanca na ploche,396,477,432,533,2
+Priemyselná daň,Pokiaľ vlastníte priemyselné budovy zaplaťte 2 milióny,320,476,355,533,4
+Stavebné povolenie,Postavte skládku alebo park,282,477,318,533,5
+Šanca,Kliknite na kartičku šanca na ploche,206,477,242,533,7
+Väzenie,Za porušenie zákona ste skončili vo väzení,68,478,128,534,10
+Aukcia,Vyberte si štvrť bez majiteľa ktorá bude vydražená,71,400,128,436,12
+Stavebné povolenie,Postavte školu alebo väzenie,70,284,129,320,15
+Šanca,Kliknite na kartičku šanca na ploche,69,206,128,243,17
+Bezplatné parkovanie,Máte kartičku bezplatného parkovania,70,68,128,128,20
+Šanca,Kliknite na kartičku šanca na ploche,168,69,203,128,22
+Stavebné povolenie,Postavte čističku odpadov alebo vodáreň,281,69,319,129,25
+Šanca,Kliknite na kartičku šanca na ploche,396,68,432,127,28
+Chodťe do väzenia,Za porušenie zákona idete priamo do väzenia,471,67,530,127,30
+Aukcia,Vyberte si štvrť bez majiteľa ktorá bude vydražená,470,207,529,242,33
+Stavebné povolenie,Postavte tepelnú alebo veternú elektráreň,471,284,532,319,35
+Šanca,Kliknite na kartičku šanca na ploche,470,321,530,359,36
+Priemyselná daň,Pokiaľ vlastníte priemyselné budovy zaplaťte 2 milióny,472,397,530,435,38
+

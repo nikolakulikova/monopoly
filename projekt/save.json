@@ -1,0 +1,964 @@
+{
+    "plocha": [
+        {
+            "nazov": "\u0160tart",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "472",
+                "477",
+                "530",
+                "532"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Vyberte si plat 2 mili\u00f3ny",
+            "n": 0
+        },
+        {
+            "nazov": "V\u00fdletov",
+            "obdlzniky": [],
+            "farba": "brown",
+            "cena": 600000,
+            "cena_za_obyt": 500000,
+            "cena_za_priemysel": 1000000,
+            "prenajom": 20000,
+            "prenajom_za_budovu": 100000,
+            "vlastnik": null,
+            "suradnice": [
+                "434",
+                "476",
+                "470",
+                "530"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "\u0160anca",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "396",
+                "477",
+                "432",
+                "533"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Kliknite na karti\u010dku \u0161anca na ploche",
+            "n": 0
+        },
+        {
+            "nazov": "Sedlec",
+            "obdlzniky": [],
+            "farba": "brown",
+            "cena": 600000,
+            "cena_za_obyt": 500000,
+            "cena_za_priemysel": 1000000,
+            "prenajom": 40000,
+            "prenajom_za_budovu": 200000,
+            "vlastnik": "Hr\u00e1\u010d2",
+            "suradnice": [
+                "358",
+                "475",
+                "394",
+                "533"
+            ],
+            "hraci": [
+                "Hr\u00e1\u010d3(Po\u010d\u00edta\u010d)"
+            ],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "Priemyseln\u00e1 da\u0148",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "320",
+                "476",
+                "355",
+                "533"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Pokia\u013e vlastn\u00edte priemyseln\u00e9 budovy zapla\u0165te 2 mili\u00f3ny",
+            "n": 0
+        },
+        {
+            "nazov": "Stavebn\u00e9 povolenie",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "282",
+                "477",
+                "318",
+                "533"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Postavte skl\u00e1dku alebo park",
+            "n": 0
+        },
+        {
+            "nazov": "Z\u00e1padn\u00e1 \u0161tvr\u0165",
+            "obdlzniky": [],
+            "farba": "light blue",
+            "cena": 1000000,
+            "cena_za_obyt": 500000,
+            "cena_za_priemysel": 1000000,
+            "prenajom": 60000,
+            "prenajom_za_budovu": 300000,
+            "vlastnik": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "244",
+                "476",
+                "280",
+                "534"
+            ],
+            "hraci": [],
+            "budovy": [
+                {
+                    "typ": "voda",
+                    "poc": 0,
+                    "path": "objekty/voda_h.gif",
+                    "nazov": "voda"
+                },
+                {
+                    "typ": "vet",
+                    "poc": 0,
+                    "path": "objekty/vet_h.gif",
+                    "nazov": "vet"
+                }
+            ],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "\u0160anca",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "206",
+                "477",
+                "242",
+                "533"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Kliknite na karti\u010dku \u0161anca na ploche",
+            "n": 0
+        },
+        {
+            "nazov": "Dokovany",
+            "obdlzniky": [],
+            "farba": "light blue",
+            "cena": 1000000,
+            "cena_za_obyt": 500000,
+            "cena_za_priemysel": 1000000,
+            "prenajom": 60000,
+            "prenajom_za_budovu": 300000,
+            "vlastnik": "Hr\u00e1\u010d1",
+            "suradnice": [
+                "167",
+                "476",
+                "204",
+                "531"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "Slnkovo",
+            "obdlzniky": [],
+            "farba": "light blue",
+            "cena": 1200000,
+            "cena_za_obyt": 500000,
+            "cena_za_priemysel": 1000000,
+            "prenajom": 80000,
+            "prenajom_za_budovu": 400000,
+            "vlastnik": "Hr\u00e1\u010d3(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "129",
+                "476",
+                "166",
+                "532"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 3
+        },
+        {
+            "nazov": "V\u00e4zenie",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "68",
+                "478",
+                "128",
+                "534"
+            ],
+            "hraci": [
+                "Hr\u00e1\u010d1"
+            ],
+            "budovy": [],
+            "popis": "Za poru\u0161enie z\u00e1kona ste skon\u010dili vo v\u00e4zen\u00ed",
+            "n": 0
+        },
+        {
+            "nazov": "Star\u00e1 \u0161tvr\u0165",
+            "obdlzniky": [],
+            "farba": "pink",
+            "cena": 1400000,
+            "cena_za_obyt": 1000000,
+            "cena_za_priemysel": 2000000,
+            "prenajom": 100000,
+            "prenajom_za_budovu": 500000,
+            "vlastnik": "Hr\u00e1\u010d1",
+            "suradnice": [
+                "70",
+                "437",
+                "128",
+                "475"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "Aukcia",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "71",
+                "400",
+                "128",
+                "436"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Vyberte si \u0161tvr\u0165 bez majite\u013ea ktor\u00e1 bude vydra\u017een\u00e1",
+            "n": 0
+        },
+        {
+            "nazov": "Vy\u0161any",
+            "obdlzniky": [],
+            "farba": "pink",
+            "cena": 1400000,
+            "cena_za_obyt": 1000000,
+            "cena_za_priemysel": 2000000,
+            "prenajom": 100000,
+            "prenajom_za_budovu": 500000,
+            "vlastnik": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "70",
+                "359",
+                "128",
+                "399"
+            ],
+            "hraci": [],
+            "budovy": [
+                {
+                    "typ": "voda",
+                    "poc": 0,
+                    "path": "objekty/voda_h.gif",
+                    "nazov": "voda"
+                }
+            ],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "Horn\u00fd pr\u00edstav",
+            "obdlzniky": [],
+            "farba": "pink",
+            "cena": 1600000,
+            "cena_za_obyt": 1000000,
+            "cena_za_priemysel": 2000000,
+            "prenajom": 120000,
+            "prenajom_za_budovu": 600000,
+            "vlastnik": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "71",
+                "322",
+                "127",
+                "359"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 3
+        },
+        {
+            "nazov": "Stavebn\u00e9 povolenie",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "70",
+                "284",
+                "129",
+                "320"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Postavte \u0161kolu alebo v\u00e4zenie",
+            "n": 0
+        },
+        {
+            "nazov": "Trbieltkovce",
+            "obdlzniky": [],
+            "farba": "orange",
+            "cena": 1800000,
+            "cena_za_obyt": 1000000,
+            "cena_za_priemysel": 2000000,
+            "prenajom": 140000,
+            "prenajom_za_budovu": 700000,
+            "vlastnik": "Hr\u00e1\u010d1",
+            "suradnice": [
+                "69",
+                "244",
+                "129",
+                "280"
+            ],
+            "hraci": [],
+            "budovy": [
+                {
+                    "typ": "voda",
+                    "poc": 0,
+                    "path": "objekty/voda_h.gif",
+                    "nazov": "voda"
+                },
+                {
+                    "typ": "obyt",
+                    "poc": 2,
+                    "path": "objekty/obyt_d_h.gif",
+                    "nazov": ""
+                }
+            ],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "\u0160anca",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "69",
+                "206",
+                "128",
+                "243"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Kliknite na karti\u010dku \u0161anca na ploche",
+            "n": 0
+        },
+        {
+            "nazov": "V\u00fdchodn\u00e9 n\u00e1bre\u017eie",
+            "obdlzniky": [],
+            "farba": "orange",
+            "cena": 1800000,
+            "cena_za_obyt": 1000000,
+            "cena_za_priemysel": 2000000,
+            "prenajom": 140000,
+            "prenajom_za_budovu": 700000,
+            "vlastnik": "Hr\u00e1\u010d3(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "70",
+                "167",
+                "128",
+                "204"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "Les\u0148any",
+            "obdlzniky": [],
+            "farba": "orange",
+            "cena": 2000000,
+            "cena_za_obyt": 1000000,
+            "cena_za_priemysel": 2000000,
+            "prenajom": 160000,
+            "prenajom_za_budovu": 800000,
+            "vlastnik": "Hr\u00e1\u010d1",
+            "suradnice": [
+                "69",
+                "130",
+                "128",
+                "167"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 3
+        },
+        {
+            "nazov": "Bezplatn\u00e9 parkovanie",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "70",
+                "68",
+                "128",
+                "128"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "M\u00e1te karti\u010dku bezplatn\u00e9ho parkovania",
+            "n": 0
+        },
+        {
+            "nazov": "Vyhliadkov",
+            "obdlzniky": [],
+            "farba": "red",
+            "cena": 2200000,
+            "cena_za_obyt": 1500000,
+            "cena_za_priemysel": 3000000,
+            "prenajom": 180000,
+            "prenajom_za_budovu": 900000,
+            "vlastnik": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "129",
+                "67",
+                "166",
+                "127"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "\u0160anca",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "168",
+                "69",
+                "203",
+                "128"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Kliknite na karti\u010dku \u0161anca na ploche",
+            "n": 0
+        },
+        {
+            "nazov": "Pr\u00edstavisko",
+            "obdlzniky": [],
+            "farba": "red",
+            "cena": 2200000,
+            "cena_za_obyt": 1500000,
+            "cena_za_priemysel": 3000000,
+            "prenajom": 180000,
+            "prenajom_za_budovu": 900000,
+            "vlastnik": null,
+            "suradnice": [
+                "205",
+                "67",
+                "241",
+                "128"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "Prostriedkovce",
+            "obdlzniky": [],
+            "farba": "red",
+            "cena": 2400000,
+            "cena_za_obyt": 1500000,
+            "cena_za_priemysel": 3000000,
+            "prenajom": 200000,
+            "prenajom_za_budovu": 1000000,
+            "vlastnik": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "243",
+                "66",
+                "280",
+                "126"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 3
+        },
+        {
+            "nazov": "Stavebn\u00e9 povolenie",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "281",
+                "69",
+                "319",
+                "129"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Postavte \u010disti\u010dku odpadov alebo vod\u00e1re\u0148",
+            "n": 0
+        },
+        {
+            "nazov": "Nov\u00e1 \u0161tvr\u0165",
+            "obdlzniky": [],
+            "farba": "yellow",
+            "cena": 2600000,
+            "cena_za_obyt": 1500000,
+            "cena_za_priemysel": 3000000,
+            "prenajom": 220000,
+            "prenajom_za_budovu": 1100000,
+            "vlastnik": "Hr\u00e1\u010d2",
+            "suradnice": [
+                "318",
+                "68",
+                "356",
+                "130"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "Strieborn\u00fd pr\u00edstav",
+            "obdlzniky": [],
+            "farba": "yellow",
+            "cena": 2600000,
+            "cena_za_obyt": 1500000,
+            "cena_za_priemysel": 3000000,
+            "prenajom": 220000,
+            "prenajom_za_budovu": 1100000,
+            "vlastnik": null,
+            "suradnice": [
+                "356",
+                "66",
+                "394",
+                "128"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "\u0160anca",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "396",
+                "68",
+                "432",
+                "127"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Kliknite na karti\u010dku \u0161anca na ploche",
+            "n": 0
+        },
+        {
+            "nazov": "Obchodov",
+            "obdlzniky": [],
+            "farba": "yellow",
+            "cena": 2800000,
+            "cena_za_obyt": 1500000,
+            "cena_za_priemysel": 3000000,
+            "prenajom": 240000,
+            "prenajom_za_budovu": 1200000,
+            "vlastnik": "Hr\u00e1\u010d3(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "433",
+                "67",
+                "471",
+                "125"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 3
+        },
+        {
+            "nazov": "Chod\u0165e do v\u00e4zenia",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "471",
+                "67",
+                "530",
+                "127"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Za poru\u0161enie z\u00e1kona idete priamo do v\u00e4zenia",
+            "n": 0
+        },
+        {
+            "nazov": "Kr\u00e1\u013eovsk\u00fd dvor",
+            "obdlzniky": [],
+            "farba": "green",
+            "cena": 3000000,
+            "cena_za_obyt": 2000000,
+            "cena_za_priemysel": 4000000,
+            "prenajom": 260000,
+            "prenajom_za_budovu": 1300000,
+            "vlastnik": null,
+            "suradnice": [
+                "471",
+                "129",
+                "527",
+                "163"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "Marina",
+            "obdlzniky": [],
+            "farba": "green",
+            "cena": 3000000,
+            "cena_za_obyt": 2000000,
+            "cena_za_priemysel": 4000000,
+            "prenajom": 260000,
+            "prenajom_za_budovu": 1300000,
+            "vlastnik": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "471",
+                "167",
+                "530",
+                "202"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        },
+        {
+            "nazov": "Aukcia",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "470",
+                "207",
+                "529",
+                "242"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Vyberte si \u0161tvr\u0165 bez majite\u013ea ktor\u00e1 bude vydra\u017een\u00e1",
+            "n": 0
+        },
+        {
+            "nazov": "Po\u0159i\u010dany",
+            "obdlzniky": [],
+            "farba": "green",
+            "cena": 3200000,
+            "cena_za_obyt": 2000000,
+            "cena_za_priemysel": 4000000,
+            "prenajom": 280000,
+            "prenajom_za_budovu": 1500000,
+            "vlastnik": null,
+            "suradnice": [
+                "471",
+                "243",
+                "530",
+                "278"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 3
+        },
+        {
+            "nazov": "Stavebn\u00e9 povolenie",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "471",
+                "284",
+                "532",
+                "319"
+            ],
+            "hraci": [
+                "Hr\u00e1\u010d2"
+            ],
+            "budovy": [],
+            "popis": "Postavte tepeln\u00fa alebo vetern\u00fa elektr\u00e1re\u0148",
+            "n": 0
+        },
+        {
+            "nazov": "\u0160anca",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "470",
+                "321",
+                "530",
+                "359"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Kliknite na karti\u010dku \u0161anca na ploche",
+            "n": 0
+        },
+        {
+            "nazov": "Boh\u00e1\u010dov",
+            "obdlzniky": [],
+            "farba": "blue",
+            "cena": 3500000,
+            "cena_za_obyt": 2000000,
+            "cena_za_priemysel": 4000000,
+            "prenajom": 350000,
+            "prenajom_za_budovu": 1750000,
+            "vlastnik": null,
+            "suradnice": [
+                "471",
+                "358",
+                "529",
+                "395"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "",
+            "n": 1
+        },
+        {
+            "nazov": "Priemyseln\u00e1 da\u0148",
+            "obdlzniky": [],
+            "farba": "light gray",
+            "cena": 0,
+            "cena_za_obyt": 0,
+            "cena_za_priemysel": 0,
+            "prenajom": 0,
+            "prenajom_za_budovu": 0,
+            "vlastnik": null,
+            "suradnice": [
+                "472",
+                "397",
+                "530",
+                "435"
+            ],
+            "hraci": [],
+            "budovy": [],
+            "popis": "Pokia\u013e vlastn\u00edte priemyseln\u00e9 budovy zapla\u0165te 2 mili\u00f3ny",
+            "n": 0
+        },
+        {
+            "nazov": "Drahokamenice",
+            "obdlzniky": [],
+            "farba": "blue",
+            "cena": 4000000,
+            "cena_za_obyt": 2000000,
+            "cena_za_priemysel": 4000000,
+            "prenajom": 500000,
+            "prenajom_za_budovu": 3000000,
+            "vlastnik": "Hr\u00e1\u010d3(Po\u010d\u00edta\u010d)",
+            "suradnice": [
+                "472",
+                "435",
+                "529",
+                "472"
+            ],
+            "hraci": [
+                "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)"
+            ],
+            "budovy": [],
+            "popis": "",
+            "n": 2
+        }
+    ],
+    "poc_hracov": 4,
+    "hraci": [
+        {
+            "meno": "Hr\u00e1\u010d1",
+            "cesta": "figurky/1_h.gif",
+            "peniaze": 10000,
+            "pozemky": [
+                "Dokovany",
+                "Star\u00e1 \u0161tvr\u0165",
+                "Les\u0148any",
+                "Trbieltkovce"
+            ],
+            "odpustenie_dane": false,
+            "priepustka": false,
+            "karta_parking": false,
+            "bol_vo_vazeni": true,
+            "vo_vazeni": false,
+            "pocitac": false,
+            "policko": 10,
+            "zaciatok_tahu": true
+        },
+        {
+            "meno": "Hr\u00e1\u010d2",
+            "cesta": "figurky/2_h.gif",
+            "peniaze": 3260000,
+            "pozemky": [
+                "Sedlec",
+                "Nov\u00e1 \u0161tvr\u0165"
+            ],
+            "odpustenie_dane": false,
+            "priepustka": false,
+            "karta_parking": true,
+            "bol_vo_vazeni": false,
+            "vo_vazeni": false,
+            "pocitac": false,
+            "policko": 35,
+            "zaciatok_tahu": true
+        },
+        {
+            "meno": "Hr\u00e1\u010d3(Po\u010d\u00edta\u010d)",
+            "cesta": "figurky/4_h.gif",
+            "peniaze": 5790000,
+            "pozemky": [
+                "Slnkovo",
+                "V\u00fdchodn\u00e9 n\u00e1bre\u017eie",
+                "Obchodov",
+                "Drahokamenice"
+            ],
+            "odpustenie_dane": false,
+            "priepustka": false,
+            "karta_parking": false,
+            "bol_vo_vazeni": false,
+            "vo_vazeni": false,
+            "pocitac": true,
+            "policko": 3,
+            "zaciatok_tahu": true
+        },
+        {
+            "meno": "Hr\u00e1\u010d4(Po\u010d\u00edta\u010d)",
+            "cesta": "figurky/3_h.gif",
+            "peniaze": 2280000,
+            "pozemky": [
+                "Z\u00e1padn\u00e1 \u0161tvr\u0165",
+                "Horn\u00fd pr\u00edstav",
+                "Vy\u0161any",
+                "Prostriedkovce",
+                "Marina",
+                "Vyhliadkov"
+            ],
+            "odpustenie_dane": false,
+            "priepustka": false,
+            "karta_parking": false,
+            "bol_vo_vazeni": false,
+            "vo_vazeni": false,
+            "pocitac": true,
+            "policko": 39,
+            "zaciatok_tahu": true
+        }
+    ]
+}
