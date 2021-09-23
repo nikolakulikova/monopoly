@@ -39,4 +39,4 @@ Aukcia,Vyberte si štvrť bez majiteľa ktorá bude vydražená,470,207,529,242,
 Stavebné povolenie,Postavte tepelnú alebo veternú elektráreň,471,284,532,319,35
 Šanca,Kliknite na kartičku šanca na ploche,470,321,530,359,36
 Priemyselná daň,Pokiaľ vlastníte priemyselné budovy zaplaťte 2 milióny,472,397,530,435,38
-
+a
